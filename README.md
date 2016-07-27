@@ -8,7 +8,11 @@ This is a simple form layout built with the React UI and Bootstrap Library. I ch
 ###Setup
 
 - Pull down the project files
-- In the root folder `Form`, run `npm install` for all dependencies
-- In the root folder `Form`, run `gulp` to process the `main.scss` file
-- In the root folder `Form`, run `node_modules/.bin/webpack-dev-server` to start the webpack dev server
+
+
+	<strong>In the root folder run</strong>:
+
+- `npm install` for all dependencies
+- `gulp` to process the `main.scss` file
+- `node_modules/.bin/webpack-dev-server` to start the webpack dev server
 - Application will be served to `http://localhost:8080/webpack-dev-server/` (or just plain  `/`)
